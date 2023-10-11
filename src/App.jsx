@@ -1,5 +1,3 @@
-import './App.css';
-
 import Avatar from './components/avatar/avatar';
 import Badge from './components/bagde/badge';
 import Card from './components/card/card';
@@ -7,6 +5,8 @@ import Footer from './components/footer/footer';
 import Header from './components/header/header';
 
 import dandelion from './components/avatar/dandelion.jpg'
+
+import './App.css';
 
 function App() {
   return (

@@ -1,4 +1,5 @@
 import React from "react";
+
 import "./bagde.css";
 
 function Badge({label}){
